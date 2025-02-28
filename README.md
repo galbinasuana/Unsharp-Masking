@@ -49,7 +49,6 @@ git clone https://github.com/galbinasuana/Unsharp-Masking.git
 ### Rice Image Enhancement
 
 **Original vs. Processed Rice Image** 
- 
 ![Original vs. Processed Rice](images/rice_unsharp.png)
 
 ### Volcano Image Enhancement
